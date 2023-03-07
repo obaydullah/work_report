@@ -1,6 +1,6 @@
-## Daily work dairy
+## Daily work Diary
 
-In this repo I will upload and share my daily work details. you can find my work details to enter the month folder and see the datewise readme file.
+In this repo, I will upload and share my daily work details. you can find my work details by entering the month folder and seeing the datewise readme file.
 
 ### example
 
